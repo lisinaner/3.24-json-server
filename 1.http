@@ -1,0 +1,11 @@
+ http://localhost:3000
+
+###
+http://localhost:3000/posts?id=1&id=2
+
+###
+http://localhost:3000/posts?title=json-server&author=typicode
+###
+http://localhost:3000/comments?author.name=typicode
+###
+http://localhost:3000/db
